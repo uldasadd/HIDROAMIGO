@@ -1,0 +1,6 @@
+{
+  "name": "HIDROAMIGA",
+  "description": "Tu asistente inteligente móvil para medir la pureza del agua (TDS, pH, metales pesados) mediante un filtro conectado por IoT, promover el consumo hídrico responsable con estadísticas de ahorro y mitigar el impacto ambiental minero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
